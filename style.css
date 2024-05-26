@@ -247,17 +247,5 @@ h1 {
 	width: 100px;
 	height: 100px;
 	}
-
-	.t {
-	position: absolute;
-	top: 600px;
-	left: 300px;
-	width: 100px;
-	height: 100px;
-	}
-
-	.s1, .s2, .s3, .s4, .s5, .s6, .s7, .s8 {
-		display: none;
-	}
 }
 
