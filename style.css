@@ -1,0 +1,347 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: black;
+	text-decoration: none;
+	list-style: none;
+}
+
+body {
+	background-image: url("sky.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100vw auto;
+
+}
+
+header {
+	position: fixed;
+	background: linear-gradient(180deg,#2ECCFA, white);
+	border-radius: 10px;
+	box-shadow: 0px 5px 10px 10px white;
+
+}
+
+h1 {
+	width: 97.5vw;
+	text-align: center;
+	letter-spacing: 15px;
+	margin: 20px;
+	padding: 10px;
+	color: white;
+}
+
+.d {
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  5px 5px 10px 12px white;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.a {
+	position: absolute;
+	top: 350px;
+	left: 500px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  5px 5px 10px 12px white;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.aa {
+	position: absolute;
+	top: 450px;
+	left: 650px;
+	border: 2px solid white;
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  5px 5px 10px 12px white;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.t {
+	position: absolute;
+	top: 170px;
+	left: 1000px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  5px 5px 10px 12px white;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.s1 {
+	position: absolute;
+	top: 300px;
+	left: 150px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s2 {
+	position: absolute;
+	top: 160px;
+	left: 360px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 50px;
+	height: 50px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s3 {
+	position: absolute;
+	top: 500px;
+	left: 280px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 80px;
+	height: 80px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s4 {
+	position: absolute;
+	top: 700px;
+	left: 540px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 50px;
+	height: 50px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s5 {
+	position: absolute;
+	top: 270px;
+	left: 960px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 80px;
+	height: 80px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s6 {
+	position: absolute;
+	top: 310px;
+	left: 750px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 50px;
+	height: 50px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s7 {
+	position: absolute;
+	top: 120px;
+	left: 1130px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 50px;
+	height: 50px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s8 {
+	position: absolute;
+	top: 680px;
+	left: 930px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 80px;
+	height: 80px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s9 {
+	position: absolute;
+	top: 260px;
+	left: 1300px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 120px;
+	height: 120px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s10 {
+	position: absolute;
+	top: 230px;
+	left: 640px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s11 {
+	position: absolute;
+	top: 660px;
+	left: 80px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 130px;
+	height: 130px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s12 {
+	position: absolute;
+	top: 560px;
+	left: 1120px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 140px;
+	height: 140px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+
+.s13 {
+	position: absolute;
+	top: 520px;
+	left: 1200px;
+	border: 2px solid white;
+	border-radius: 100px;
+	width: 80px;
+	height: 80px;
+	box-shadow:  3px 3px 10px 5px white;
+}
+@media screen and (max-aspect-ratio: 1/1) {
+	body {
+		background-size: auto 100vh;
+	}
+
+	h1 {
+		font-size: 20px;
+	}
+
+	li {
+		font-size: 10px;
+	}
+
+	.d {
+	position: absolute;
+	top: 150px;
+	left: 80px;
+	width: 110px;
+	height: 110px;
+	box-shadow:  5px 4px 10px 7px white;
+	}
+
+	.a {
+	position: absolute;
+	top: 340px;
+	left: 130px;
+	width: 110px;
+	height: 110px;
+	box-shadow:  5px 4px 10px 7px white;
+	}
+
+	.aa {
+	position: absolute;
+	top: 400px;
+	left: 200px;
+	width: 110px;
+	height: 110px;
+	box-shadow:  5px 4px 10px 7px white;
+	}
+
+	.t {
+	position: absolute;
+	top: 600px;
+	left: 300px;
+	width: 110px;
+	height: 110px;
+	box-shadow:  5px 4px 10px 7px white;
+	}
+
+	.s1 {
+	position: absolute;
+	top: 210px;
+	left: 50px;
+	width: 60px;
+	height: 60px;
+	}
+
+	.s2 {
+	position: absolute;
+	top: 450px;
+	left: 90px;
+	width: 40px;
+	height: 40px;
+	}
+
+	.s3 {
+	position: absolute;
+	top: 700px;
+	left: 200px;
+	width: 60px;
+	height: 60px;
+	}
+
+	.s4 {
+	position: absolute;
+	top: 680px;
+	left: 180px;
+	width: 40px;
+	height: 40px;
+	}
+
+	.s5 {
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	width: 90px;
+	height: 90px;
+	}
+
+	.s6 {
+	position: absolute;
+	top: 600px;
+	left: 50px;
+	width: 60px;
+	height: 60px;
+	}
+
+	.s7 {
+	position: absolute;
+	top: 680px;
+	left: 180px;
+	width: 40px;
+	height: 40px;
+	}
+
+	.s8, .s9, .s10, .s11, .s12, .s13 {
+	display: none;
+	}
+}
+
