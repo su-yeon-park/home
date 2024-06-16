@@ -19,7 +19,6 @@ body {
 header {
 	position: fixed;
 	background: linear-gradient(180deg,#2ECCFA, white);
-	border-radius: 10px;
 	box-shadow: 0px 5px 10px 10px white;
 
 }

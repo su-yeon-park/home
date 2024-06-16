@@ -59,7 +59,7 @@ h2 {
 
 .button_container {
   position: absolute;
-  left: 740px;
+  left: 760px;
   right: 0;
   top: 800px;
 }
@@ -155,7 +155,7 @@ h2 {
 	}
 
 	.button_container {
-	  left: 1px;
+	  left: 0px;
 	  right: 0;
 	  top: 1090px;
 	  padding-bottom: 50px;

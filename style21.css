@@ -55,7 +55,7 @@ h2 {
 .s{
 	background: linear-gradient(90deg,#fefae0, #ccd5ae);
 	width: 45vw;
-	height: 97vh;
+	height: 96.5vh;
 	padding-left: 50px;
 	padding-right: 30px;
 	margin-right: 150px;
@@ -67,7 +67,7 @@ h2 {
 .ss {
 	background: linear-gradient(90deg,#fefae0, #ccd5ae);
 	width: 45vw;
-	height: 97vh;
+	height: 96.5vh;
 	padding-left: 80px;
 	padding-right: 30px;
 	margin-right: 150px;
@@ -79,7 +79,7 @@ h2 {
 .sss {
 	background: linear-gradient(90deg,#fefae0, #ccd5ae);
 	width: 45vw;
-	height: 97vh;
+	height: 96.5vh;
 	padding-left: 80px;
 	padding-right: 30px;
 	display: flex;
@@ -141,7 +141,7 @@ section {
 	}
 
 	img {
-		height: 268px;
+		height: 265px;
 	}
 
 	h1 {

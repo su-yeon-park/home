@@ -14,7 +14,7 @@ h1 {
 nav {
 	display: flex;
 	position: fixed;
-	padding-left: 1375px;
+	padding-left: 1397px;
 	height: 101vh;
 }
 
@@ -34,7 +34,7 @@ td {
 
 article {
 	background: #e9ecef;
-	width: 92.4vw;
+	width: 91vw;
 }
 
 section {
@@ -79,9 +79,10 @@ h2 {
 	}
 
 	nav {
-	padding-left: 0px;
+	padding-left: 2px;
 	padding-top: 50px;
 	height: 101vh;
+	width: 20vw;
 	}
 
 	td {
@@ -94,7 +95,7 @@ h2 {
 	}
 
 	article {
-	width: 96vw;
+	width: 96.5vw;
 	}
 
 	section {
